@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ayushi-ras/FrontendMentorChallenge2.git)
+- Live Site URL: (https://ayushi-ras.github.io/FrontendMentorChallenge2/)
 
 ## My process
 
